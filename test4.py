@@ -1,5 +1,4 @@
 import types
-import re
 
 def flatten(nested):
     flat = []
